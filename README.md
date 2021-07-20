@@ -6,5 +6,4 @@ https://www.udemy.com/share/101WB6A0MTdlpTQn4=/
 
 |iOS|Android|
 |------|-----|
-|![Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-04 at 18 27 36](https://user-images.githubusercontent.com/51113946/116984849-ad125180-ad06-11eb-97d2-72a3892a611e.png)|![Screenshot_20210504-182709](https://user-images.githubusercontent.com/51113946/116984864-b13e6f00-ad06-11eb-8d0c-675ca570ab38.png)
-|
+|![simulator_screenshot_817810C4-901D-4C61-9E02-710433926F7B](https://user-images.githubusercontent.com/51113946/126352196-9dfbd479-8818-4a31-a5fa-d208c111c73c.png)|![Screenshot_20210721-002846](https://user-images.githubusercontent.com/51113946/126352041-2e07f29b-b6e2-4407-9752-e4eea2c81c41.jpg)|
